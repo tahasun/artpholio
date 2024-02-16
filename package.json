@@ -1,0 +1,13 @@
+{
+    "name": "art-portfolio",
+    "version": "0.0.1",
+    "private": false,
+    "scripts": {
+      "dev": "nodemon",
+      "serve": "live-server"
+    },
+    "dependencies": {
+      "express": "3.0.5",
+      "ejs": "*"
+    }
+}

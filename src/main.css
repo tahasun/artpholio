@@ -79,6 +79,8 @@ html, body {
 
 .sticky-social-link a {
     object-fit: contain;
+    display: flex;
+    justify-content: center;
 }
 
 .sticky-social-link > img {
